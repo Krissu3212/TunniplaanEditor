@@ -1,0 +1,2 @@
+python tunniplaanEditor.py
+pause
